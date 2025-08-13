@@ -119,10 +119,10 @@ pytest tests/
 
 The setup includes sample data:
 
-- 5 shelves in different sections
+- 5 shelves in different sections (A1, A2, B1, B2, C1)
 - 5 students from different programs
-- 15 books across various topics
-- Sample loan transactions
+- 14 books across various topics (Computer Science, Math, Physics, Chemistry, Literature)
+- Sample loan transactions (active, returned, and overdue loans)
 
 ## License
 
