@@ -12,6 +12,9 @@ pytest-mock>=3.10.0
 python-dotenv>=1.0.0  # Environment variable management
 click>=8.0.0  # CLI utilities
 
+# API (for manual testing)
+flask>=2.3.0  # Web framework for REST API
+
 # Optional: For advanced features
 # sqlalchemy>=2.0.0  # ORM (if needed later)
 # alembic>=1.8.0  # Alternative migration tool
